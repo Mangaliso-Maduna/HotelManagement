@@ -6,3 +6,9 @@ for the real data part, indicated by "REVIEWS" in the web Application, we used r
 
 The project consist of different models and containers, each having relevant information to the relevant page(HOME,GALLERY,REVIEWS,ABOUT).
 
+
+(WE WORKED AS A GROUP IN DESIGNING THIS PROJECT
+      1. MANGALISO MADUNA
+      2. RELEBOHILE LEEPILE
+      3. LODDY MKHARI
+)
